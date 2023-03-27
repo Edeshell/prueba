@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "64209ed5a17a61f560c0d29a"
+  },
+  "titulo": "titanic",
+  "fecha": "1990",
+  "genero": "drama"
+},{
+  "_id": {
+    "$oid": "6420d11686a10093b59ea6eb"
+  },
+  "titulo": "el zorro",
+  "fecha": "1998",
+  "genero": "accion"
+},{
+  "_id": {
+    "$oid": "6420db987ce3e3bffaa01355"
+  },
+  "titulo": "hulk",
+  "fecha": 2004,
+  "genero": "accion"
+},{
+  "_id": {
+    "$oid": "6420ecd5a17a61f560c0d29d"
+  },
+  "titulo": "la llorona",
+  "fecha": 2010,
+  "genero": "terror"
+}]
